@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnakeApp</string>
+    <string name="score_text">Puntuación: %1$d</string>
+    <string name="score_initial">Puntuación: 0</string>
+    <string name="final_score_message">Puntuación final: %1$d puntos</string>
+
+
+</resources>
